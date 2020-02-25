@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/ddn/data/mzkl37/scripts/run_pva_water_ethanol.py", line 14, in <module>
+    calc.run_sim()
+  File "/ddn/data/mzkl37/scripts/lambda_iterator.py", line 67, in run_sim
+    self.combine_files(self.name+'.top', self.name+'.gro', self.mol)
+  File "/ddn/data/mzkl37/scripts/lambda_iterator.py", line 44, in combine_files
+    fe_utils.top_comp(self.top_file1, self.top_file2, mol, count, top_out)
+  File "/ddn/data/mzkl37/scripts/free_ener_utils.py", line 46, in top_comp
+    write_str(dict_top(add_top(top_dict(file1), top_dict(file2), mol2, count)), file_out)
+  File "/ddn/data/mzkl37/scripts/free_ener_utils.py", line 8, in top_dict
+    file_dict[key] = sections[n].split('\n')
+IndexError: list index out of range

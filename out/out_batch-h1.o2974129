@@ -1,0 +1,71 @@
+MD File:	steep.mdp
+Lambdas v:	0.0
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 96x96x96, spacing 0.106 0.106 0.106
+This run will generate roughly 27 Mb of data
+MD File:	l-bfgs.mdp
+Lambdas v:	0.0
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 96x96x96, spacing 0.106 0.106 0.106
+This run will generate roughly 27 Mb of data
+MD File:	nvt.mdp
+Lambdas v:	0.0
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.206 nm, buffer size 0.006 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 96x96x96, spacing 0.106 0.106 0.106
+This run will generate roughly 236 Mb of data

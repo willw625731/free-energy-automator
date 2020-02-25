@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/ddn/data/mzkl37/scripts/pva_glycerin_300K.py", line 14, in <module>
+    calc.run_sim()
+  File "/ddn/data/mzkl37/scripts/lambda_iterator.py", line 65, in run_sim
+    os.makedirs(self.execute_path+self.name)
+  File "/usr/local/Cluster-Apps/python/3.6.8/lib/python3.6/os.py", line 220, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: '/ddn/data/mzkl37/free_energy_calc/PVA_Glycerin_300'
+Traceback (most recent call last):
+  File "/ddn/data/mzkl37/scripts/pvac_glycerin_300K.py", line 14, in <module>
+    calc.run_sim()
+  File "/ddn/data/mzkl37/scripts/lambda_iterator.py", line 65, in run_sim
+    os.makedirs(self.execute_path+self.name)
+  File "/usr/local/Cluster-Apps/python/3.6.8/lib/python3.6/os.py", line 220, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: '/ddn/data/mzkl37/free_energy_calc/PVAc_Glycerin_300'

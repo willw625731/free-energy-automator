@@ -1,0 +1,3360 @@
+MD File:	steep.mdp
+Lambdas v:	0.0
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.110 0.110 0.110
+This run will generate roughly 24 Mb of data
+MD File:	l-bfgs.mdp
+Lambdas v:	0.0
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.110 0.110 0.110
+This run will generate roughly 24 Mb of data
+MD File:	nvt.mdp
+Lambdas v:	0.0
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.110 0.110 0.110
+This run will generate roughly 140 Mb of data
+MD File:	npt.mdp
+Lambdas v:	0.0
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.110 0.110 0.110
+This run will generate roughly 140 Mb of data
+MD File:	production.mdp
+Lambdas v:	0.0
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 274 Mb of data
+MD File:	steep.mdp
+Lambdas v:	0.1
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	l-bfgs.mdp
+Lambdas v:	0.1
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	nvt.mdp
+Lambdas v:	0.1
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	npt.mdp
+Lambdas v:	0.1
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	production.mdp
+Lambdas v:	0.1
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 274 Mb of data
+MD File:	steep.mdp
+Lambdas v:	0.2
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	l-bfgs.mdp
+Lambdas v:	0.2
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	nvt.mdp
+Lambdas v:	0.2
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	npt.mdp
+Lambdas v:	0.2
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	production.mdp
+Lambdas v:	0.2
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 274 Mb of data
+MD File:	steep.mdp
+Lambdas v:	0.3
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	l-bfgs.mdp
+Lambdas v:	0.3
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	nvt.mdp
+Lambdas v:	0.3
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	npt.mdp
+Lambdas v:	0.3
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	production.mdp
+Lambdas v:	0.3
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 274 Mb of data
+MD File:	steep.mdp
+Lambdas v:	0.4
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	l-bfgs.mdp
+Lambdas v:	0.4
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	nvt.mdp
+Lambdas v:	0.4
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	npt.mdp
+Lambdas v:	0.4
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	production.mdp
+Lambdas v:	0.4
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 274 Mb of data
+MD File:	steep.mdp
+Lambdas v:	0.5
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	l-bfgs.mdp
+Lambdas v:	0.5
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	nvt.mdp
+Lambdas v:	0.5
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	npt.mdp
+Lambdas v:	0.5
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	production.mdp
+Lambdas v:	0.5
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 274 Mb of data
+MD File:	steep.mdp
+Lambdas v:	0.6
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	l-bfgs.mdp
+Lambdas v:	0.6
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	nvt.mdp
+Lambdas v:	0.6
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	npt.mdp
+Lambdas v:	0.6
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	production.mdp
+Lambdas v:	0.6
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 274 Mb of data
+MD File:	steep.mdp
+Lambdas v:	0.7
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	l-bfgs.mdp
+Lambdas v:	0.7
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	nvt.mdp
+Lambdas v:	0.7
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	npt.mdp
+Lambdas v:	0.7
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	production.mdp
+Lambdas v:	0.7
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 274 Mb of data
+MD File:	steep.mdp
+Lambdas v:	0.8
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	l-bfgs.mdp
+Lambdas v:	0.8
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	nvt.mdp
+Lambdas v:	0.8
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	npt.mdp
+Lambdas v:	0.8
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	production.mdp
+Lambdas v:	0.8
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 274 Mb of data
+MD File:	steep.mdp
+Lambdas v:	0.9
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	l-bfgs.mdp
+Lambdas v:	0.9
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	nvt.mdp
+Lambdas v:	0.9
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	npt.mdp
+Lambdas v:	0.9
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	production.mdp
+Lambdas v:	0.9
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 274 Mb of data
+MD File:	steep.mdp
+Lambdas v:	1.0
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	l-bfgs.mdp
+Lambdas v:	1.0
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	nvt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	npt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	production.mdp
+Lambdas v:	1.0
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 274 Mb of data
+MD File:	steep.mdp
+Lambdas v:	1.0
+Lambdas q:	0.1
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	l-bfgs.mdp
+Lambdas v:	1.0
+Lambdas q:	0.1
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	nvt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.1
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	npt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.1
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	production.mdp
+Lambdas v:	1.0
+Lambdas q:	0.1
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 274 Mb of data
+MD File:	steep.mdp
+Lambdas v:	1.0
+Lambdas q:	0.2
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	l-bfgs.mdp
+Lambdas v:	1.0
+Lambdas q:	0.2
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	nvt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.2
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	npt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.2
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	production.mdp
+Lambdas v:	1.0
+Lambdas q:	0.2
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 274 Mb of data
+MD File:	steep.mdp
+Lambdas v:	1.0
+Lambdas q:	0.3
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	l-bfgs.mdp
+Lambdas v:	1.0
+Lambdas q:	0.3
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	nvt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.3
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	npt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.3
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	production.mdp
+Lambdas v:	1.0
+Lambdas q:	0.3
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 274 Mb of data
+MD File:	steep.mdp
+Lambdas v:	1.0
+Lambdas q:	0.4
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	l-bfgs.mdp
+Lambdas v:	1.0
+Lambdas q:	0.4
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	nvt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.4
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	npt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.4
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	production.mdp
+Lambdas v:	1.0
+Lambdas q:	0.4
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 274 Mb of data
+MD File:	steep.mdp
+Lambdas v:	1.0
+Lambdas q:	0.5
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	l-bfgs.mdp
+Lambdas v:	1.0
+Lambdas q:	0.5
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	nvt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.5
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	npt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.5
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	production.mdp
+Lambdas v:	1.0
+Lambdas q:	0.5
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 274 Mb of data
+MD File:	steep.mdp
+Lambdas v:	1.0
+Lambdas q:	0.6
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	l-bfgs.mdp
+Lambdas v:	1.0
+Lambdas q:	0.6
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	nvt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.6
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	npt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.6
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	production.mdp
+Lambdas v:	1.0
+Lambdas q:	0.6
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 274 Mb of data
+MD File:	steep.mdp
+Lambdas v:	1.0
+Lambdas q:	0.7
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	l-bfgs.mdp
+Lambdas v:	1.0
+Lambdas q:	0.7
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	nvt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.7
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	npt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.7
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	production.mdp
+Lambdas v:	1.0
+Lambdas q:	0.7
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 274 Mb of data
+MD File:	steep.mdp
+Lambdas v:	1.0
+Lambdas q:	0.8
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	l-bfgs.mdp
+Lambdas v:	1.0
+Lambdas q:	0.8
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	nvt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.8
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	npt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.8
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	production.mdp
+Lambdas v:	1.0
+Lambdas q:	0.8
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 274 Mb of data
+MD File:	steep.mdp
+Lambdas v:	1.0
+Lambdas q:	0.9
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	l-bfgs.mdp
+Lambdas v:	1.0
+Lambdas q:	0.9
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	nvt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.9
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	npt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.9
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	production.mdp
+Lambdas v:	1.0
+Lambdas q:	0.9
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 274 Mb of data
+MD File:	steep.mdp
+Lambdas v:	1.0
+Lambdas q:	1.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	l-bfgs.mdp
+Lambdas v:	1.0
+Lambdas q:	1.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 24 Mb of data
+MD File:	nvt.mdp
+Lambdas v:	1.0
+Lambdas q:	1.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	npt.mdp
+Lambdas v:	1.0
+Lambdas q:	1.0
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 140 Mb of data
+MD File:	production.mdp
+Lambdas v:	1.0
+Lambdas q:	1.0
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVA_Glycerin_300.top
+Checks complete
+processing topology...
+turning H bonds into constraints...
+turning H bonds into constraints...
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+J. S. Hub, B. L. de Groot, H. Grubmueller, G. Groenhof
+Quantifying Artifacts in Ewald Simulations of Inhomogeneous Systems with a Net
+Charge
+J. Chem. Theory Comput. 10 (2014) pp. 381-393
+-------- -------- --- Thank You --- -------- --------
+
+Analysing residue names:
+There are:  1001      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+Calculated rlist for 1x1 atom pair-list as 1.211 nm, buffer size 0.011 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x72, spacing 0.111 0.111 0.111
+This run will generate roughly 274 Mb of data
+MD File:	steep.mdp
+Lambdas v:	0.0
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	l-bfgs.mdp
+Lambdas v:	0.0
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	nvt.mdp
+Lambdas v:	0.0
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	npt.mdp
+Lambdas v:	0.0
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	production.mdp
+Lambdas v:	0.0
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	steep.mdp
+Lambdas v:	0.1
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	l-bfgs.mdp
+Lambdas v:	0.1
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	nvt.mdp
+Lambdas v:	0.1
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	npt.mdp
+Lambdas v:	0.1
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	production.mdp
+Lambdas v:	0.1
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	steep.mdp
+Lambdas v:	0.2
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	l-bfgs.mdp
+Lambdas v:	0.2
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	nvt.mdp
+Lambdas v:	0.2
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	npt.mdp
+Lambdas v:	0.2
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	production.mdp
+Lambdas v:	0.2
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	steep.mdp
+Lambdas v:	0.3
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	l-bfgs.mdp
+Lambdas v:	0.3
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	nvt.mdp
+Lambdas v:	0.3
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	npt.mdp
+Lambdas v:	0.3
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	production.mdp
+Lambdas v:	0.3
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	steep.mdp
+Lambdas v:	0.4
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	l-bfgs.mdp
+Lambdas v:	0.4
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	nvt.mdp
+Lambdas v:	0.4
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	npt.mdp
+Lambdas v:	0.4
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	production.mdp
+Lambdas v:	0.4
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	steep.mdp
+Lambdas v:	0.5
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	l-bfgs.mdp
+Lambdas v:	0.5
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	nvt.mdp
+Lambdas v:	0.5
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	npt.mdp
+Lambdas v:	0.5
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	production.mdp
+Lambdas v:	0.5
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	steep.mdp
+Lambdas v:	0.6
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	l-bfgs.mdp
+Lambdas v:	0.6
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	nvt.mdp
+Lambdas v:	0.6
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	npt.mdp
+Lambdas v:	0.6
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	production.mdp
+Lambdas v:	0.6
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	steep.mdp
+Lambdas v:	0.7
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	l-bfgs.mdp
+Lambdas v:	0.7
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	nvt.mdp
+Lambdas v:	0.7
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	npt.mdp
+Lambdas v:	0.7
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	production.mdp
+Lambdas v:	0.7
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	steep.mdp
+Lambdas v:	0.8
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	l-bfgs.mdp
+Lambdas v:	0.8
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	nvt.mdp
+Lambdas v:	0.8
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	npt.mdp
+Lambdas v:	0.8
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	production.mdp
+Lambdas v:	0.8
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	steep.mdp
+Lambdas v:	0.9
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	l-bfgs.mdp
+Lambdas v:	0.9
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	nvt.mdp
+Lambdas v:	0.9
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	npt.mdp
+Lambdas v:	0.9
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	production.mdp
+Lambdas v:	0.9
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	steep.mdp
+Lambdas v:	1.0
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	l-bfgs.mdp
+Lambdas v:	1.0
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	nvt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	npt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	production.mdp
+Lambdas v:	1.0
+Lambdas q:	0.0
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	steep.mdp
+Lambdas v:	1.0
+Lambdas q:	0.1
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	l-bfgs.mdp
+Lambdas v:	1.0
+Lambdas q:	0.1
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	nvt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.1
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	npt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.1
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	production.mdp
+Lambdas v:	1.0
+Lambdas q:	0.1
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	steep.mdp
+Lambdas v:	1.0
+Lambdas q:	0.2
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	l-bfgs.mdp
+Lambdas v:	1.0
+Lambdas q:	0.2
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	nvt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.2
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	npt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.2
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	production.mdp
+Lambdas v:	1.0
+Lambdas q:	0.2
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	steep.mdp
+Lambdas v:	1.0
+Lambdas q:	0.3
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	l-bfgs.mdp
+Lambdas v:	1.0
+Lambdas q:	0.3
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	nvt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.3
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	npt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.3
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	production.mdp
+Lambdas v:	1.0
+Lambdas q:	0.3
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	steep.mdp
+Lambdas v:	1.0
+Lambdas q:	0.4
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	l-bfgs.mdp
+Lambdas v:	1.0
+Lambdas q:	0.4
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	nvt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.4
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	npt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.4
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	production.mdp
+Lambdas v:	1.0
+Lambdas q:	0.4
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	steep.mdp
+Lambdas v:	1.0
+Lambdas q:	0.5
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	l-bfgs.mdp
+Lambdas v:	1.0
+Lambdas q:	0.5
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	nvt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.5
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	npt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.5
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	production.mdp
+Lambdas v:	1.0
+Lambdas q:	0.5
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	steep.mdp
+Lambdas v:	1.0
+Lambdas q:	0.6
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	l-bfgs.mdp
+Lambdas v:	1.0
+Lambdas q:	0.6
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	nvt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.6
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	npt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.6
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	production.mdp
+Lambdas v:	1.0
+Lambdas q:	0.6
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	steep.mdp
+Lambdas v:	1.0
+Lambdas q:	0.7
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	l-bfgs.mdp
+Lambdas v:	1.0
+Lambdas q:	0.7
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	nvt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.7
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	npt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.7
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	production.mdp
+Lambdas v:	1.0
+Lambdas q:	0.7
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	steep.mdp
+Lambdas v:	1.0
+Lambdas q:	0.8
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	l-bfgs.mdp
+Lambdas v:	1.0
+Lambdas q:	0.8
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	nvt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.8
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	npt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.8
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	production.mdp
+Lambdas v:	1.0
+Lambdas q:	0.8
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	steep.mdp
+Lambdas v:	1.0
+Lambdas q:	0.9
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	l-bfgs.mdp
+Lambdas v:	1.0
+Lambdas q:	0.9
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	nvt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.9
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	npt.mdp
+Lambdas v:	1.0
+Lambdas q:	0.9
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	production.mdp
+Lambdas v:	1.0
+Lambdas q:	0.9
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	steep.mdp
+Lambdas v:	1.0
+Lambdas q:	1.0
+MD file:	/ddn/data/mzkl37/mdfiles/steep.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	l-bfgs.mdp
+Lambdas v:	1.0
+Lambdas q:	1.0
+MD file:	/ddn/data/mzkl37/mdfiles/l-bfgs.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	nvt.mdp
+Lambdas v:	1.0
+Lambdas q:	1.0
+MD file:	/ddn/data/mzkl37/mdfiles/nvt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	npt.mdp
+Lambdas v:	1.0
+Lambdas q:	1.0
+MD file:	/ddn/data/mzkl37/mdfiles/npt.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
+MD File:	production.mdp
+Lambdas v:	1.0
+Lambdas q:	1.0
+MD file:	/ddn/data/mzkl37/mdfiles/production.mdp
+TOP file:	PVAc_Glycerin_300.top
+Checks complete
+processing topology...
